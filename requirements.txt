@@ -1,0 +1,8 @@
+Selenium
+BeautifulSoup
+requests
+nltk
+matplotlib
+wordcloud
+pandas
+scikit-learn
