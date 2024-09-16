@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/84feb05e-7eeb-48e7-8407-c7a8decf5d1c)# Amazon Product Review Analysis using Web Scraping and NLP
+# Amazon Product Review Analysis using Web Scraping and NLP
 
 ## Overview
 This project focuses on scraping Amazon product reviews, extracting and processing customer feedback, and applying Natural Language Processing (NLP) techniques to analyze the sentiment of these reviews. The process involves:
